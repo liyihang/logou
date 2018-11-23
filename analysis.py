@@ -20,8 +20,8 @@ def replacePunctuations(line):
             line = line.replace(ch, " ")
         return line
 
-
-def main():
+# 词频统计分析
+def wordcount():
     infile = open("3.txt", 'r')
     count = 50
     words = []
@@ -38,12 +38,19 @@ def main():
     items.sort()
     # 因为sort()函数是从小到大排列，所以range是从最后一项开始取
     for i in range(len(items) - 1, len(items) - count - 1, -1):
-        print(items[i][1] + "\t" + str(items[i][0]))
-        data.append(items[i][0])
-        words.append(items[i][1])
+        data =  items[i][1] + "\t" + str(items[i][0])
+        # data.append(items[i][0])
+        # words.append(items[i][1])
+        file = open('./4.txt','a')
+        file.write(data+'\n\r')
+        file.close()
 
-    infile.close()
 
+
+# 去重合并
+def getclear():
+    data = wordcount()
+    print(data)
 
 if __name__ == '__main__':
-    main()
+    getclear()

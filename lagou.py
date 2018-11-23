@@ -1,5 +1,5 @@
 import time
-
+import json
 import pymysql
 import requests
 import random
@@ -25,9 +25,9 @@ def lagou(page, position):
     dates = {'first': 'true',
              'pn': page,
              'kd': position}
-    url = 'https://www.lagou.com/jobs/5269819.html'
+    url = 'https://www.lagou.com/jobs/positionAjax.json?city=%E5%8C%97%E4%BA%AC&needAddtionalResult=false&isSchoolJob=0'
     resp = requests.post(url, data=dates, headers=headers)
-    print(resp.content.decode('utf8'))
+    print(resp.content.decode('utf-8'))
     result = resp.json()['content']['positionResult']['result']
 
     db = pymysql.connect(**config)
@@ -59,7 +59,7 @@ def lagou(page, position):
         else:
             positionLables = ""
 
-        sql = "insert into lagou(positionName,workYear,salary,companyShortName\
+        sql = "insert into lagou1(positionName,workYear,salary,companyShortName\
               ,companyIdInLagou,education,jobNature,positionIdInLagou,createTimeInLagou\
               ,city,industryField,positionAdvantage,companySize,score,positionLables\
               ,industryLables,publisherId,financeStage,companyLabelList,district,businessZones\
@@ -86,14 +86,14 @@ def lagou(page, position):
         count = count + 1
     db.close()
 
-# @retry()
+@retry()
 def main(position):
     page = 1
     while page <= 100000:
         print('---------------------第', page, '页--------------------')
         try:
             lagou(page, position)
-            page = page + 10
+            page = page + 1
         except OSError:
             pass
         continue
@@ -102,4 +102,4 @@ def main(position):
 
 # 输入你想要爬取的职位名,如:python
 if __name__ == '__main__':
-    main("前端")
+    main('PHP')

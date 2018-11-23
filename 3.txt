@@ -28,12 +28,12 @@ c
 html    xhtml   css  
 xml  ajax
 css  ie   chrome   firefox
-javascriptjquery  
-  php  asp    aspnet  jsp
+javascript jquery
+  php  asp    aspnet  javascript    p
 html   bootstrapflash
         
 
-                        javascript   ajax   json   jave   phpweb                    svgsvg
+                        javascript   ajax   javascript    on   jave   phpweb                    svgsvg
 
 
 web
@@ -41,14 +41,14 @@ web
   
 
     github
-htmlcss  web    http
-js  js  angular   vue   react  angularionic
+html    css  web    http
+javascript      javascript      angular   vue   react  angularionic
   
 git
 
       
 
-   pc     web     jsbridge                        html    css    javascriptes   es   server  php   nodejs   java   python   jqueryzepto   bootstrap   backbone   angularjs    requirejsseajs   git   grunt   linux           githubblog      androidobjectc
+   pc     web     javascript    bridge                        html    css    javascriptes   es   server  php   node   java   python   jquery zepto   bootstrap   backbone   angular    requirejavascript     seajavascript       git   grunt   linux           github blog      android objectc
 
                web 
      html
@@ -66,9 +66,9 @@ git
 
               
 
-      html    js    css    html    flash   ajaxjquery    moontools    extjs    nodejs   js                
+      html    javascript        css    html    flash   ajaxjquery    moontools    extjavascript        node   javascript                    
 
-web    b       web     web                    web       html    css    javascript   wc       jquery   bootstrap   djs   echarts                web     java  web mvc     iosandroidapp 
+web    b       web     web                    web       html    css    javascript   wc       jquery   bootstrap   djavascript       echarts                web     java  web mvc     iosandroidapp 
 
 
         
@@ -80,7 +80,7 @@ web    b       web     web                    web       html    css    javascrip
 
      
    html   css   javascript   ajax   dom  divcss   wc        
-   javascript   jquery   angularjs   nodejs  bootstrap
+   javascript   jquery   angular   node  bootstrap
    gulp
         
         
@@ -94,10 +94,10 @@ web    b       web     web                    web       html    css    javascrip
  mvc  mvvm
  git   gulp    grunt    webpack      require 
    
- js
+ javascript    
  mac
    
- jsas
+ javascript    as
 
  
  react    vue
@@ -119,7 +119,7 @@ web    b       web     web                    web       html    css    javascrip
 
      
  html   css   javascriptweb
- web  js     
+ web  javascript         
  php   java  python  oop
    
 
@@ -131,17 +131,17 @@ html    css    javsscript
 
   
 html   css   javascriptweb
-web  js     
+web  javascript         
 php   java  python  oop
   
 
-      web  html   css   javascript   ajaxhttp restful api      jquery   vue   mvvm   git   nodejs        ,      
+      web  html   css   javascript   ajaxhttp restful api      jquery   vue   mvvm   git   node        ,      
 
 
 pch
 web
 pcweb appwebweb    web
-wchtmlcss  javascriptesnodejs
+wchtml    css  javascriptesnode
 jquery   bootstrap
 mvvm  vue  vue
   webpack
@@ -158,7 +158,7 @@ mvvm  vue  vue
    html    css  html    css  wc     html
    javascript   ajaxweb
    
-   reactjs,seajs  jquery  boostrap  
+   react,seajavascript      jquery  boostrap  
    yslow   pagespeed
            
        
@@ -188,22 +188,22 @@ html,
 ,
 
 
- angularjs   vuejsreactjs
+ angular   vue react
  
  server    client    browser
-   nodejs   python   java   go   php
+   node   python   java   go   php
 
   
      
    web  
    demo  
-   reactjs    html    css    javascript    flashweb  
+   react    html    css    javascript    flashweb  
      
        
   
       
-webreactjs    css    html    javascript  reactjs    html    css  
-webjquery,bootstrap,reactjs  
+webreact    css    html    javascript  react    html    css  
+webjquery,bootstrap,react  
   
   
 java  
@@ -213,9 +213,9 @@ java
 
      
 h   
-js   html   css
+javascript       html   css
 web  cavas  css
-     js    jquery   vue   zepto
+     javascript        jquery   vue   zepto
   echarts   d
      
 
@@ -233,17 +233,17 @@ web  cavas  css
 css  css
 javascript  web  react, vue     jquery
 xhtml    xml    css   javascript   ajax  wc  javascript  es
-js  mvc   mvvm
+javascript      mvc   mvvm
   css
 html
 
 
 
    webwap
-   nodejs    
+   node    
 
    
-   html    js es    css
+   html    javascript     es    css
       
    express    koa   fis    gulp
    
@@ -256,7 +256,7 @@ web
     
   
 
-html    css    javascriptweb  
+html    css    javascript web
 mvcflux     angular     reactredux
 
   svg   webgl  d
@@ -265,19 +265,19 @@ tdd    bdd
 
 docker
 github
-nodejs   python   java
+node   python   java
 
 
 
    
-   react nativereactjs
+   react nativereact
       
      
 
   
-   react    reactjsreact native
+   react    reactreact native
    javascript,
-   html   css   js   ajax   nodejs  
+   html   css   javascript       ajax   node  
      
          
 
@@ -290,7 +290,7 @@ nodejs   python   java
   
 wc  html   css   javascript
 cssjavascript  vue
-  nodejs
+  node
   
  web    web 
 
@@ -301,12 +301,12 @@ cssjavascript  vue
    web
 
      
-   html    xhtml   css  javascript  js
+   html    xhtml   css  javascript  javascript    
    wc     html
-   nodejs   java   linux
+   node   java   linux
       
 
-      ,                  htmlcss     javascript                          http    nodejs    ruby    python    php    mvvm  vue  react   linux      github   
+      ,                  html    css     javascript                          http    node    ruby    python    php    mvvm  vue  react   linux      github   
 
 
      pc   app
@@ -326,10 +326,10 @@ cssjavascript  vue
 
      
    web components  
-   nodejs  node  express  koa  linux
+   node  node  express  koa  linux
 
     
- nodejs    web 
+ node    web 
  express   koa  web framework
 
 
@@ -341,9 +341,9 @@ cssjavascript  vue
      
    web     
    web
-   js
+   javascript    
          
-   html   css   js
+   html   css   javascript    
    
    
 
@@ -363,11 +363,11 @@ http
 
  angular 
 easyuiuiui
-nodejs     node
+node     node
 
 ionic  react native app
 
-  web  xhtml   javascript   css   html   ajax   jsonjquery   extjs   bootstrap         photoshop    svn      htmlsencha touch,jquery mobile  sencha  phonegap  webhtml     javascript  web       
+  web  xhtml   javascript   css   html   ajax   javascript    onjquery   extjavascript       bootstrap         photoshop    svn      htmlsencha touch,jquery mobile  sencha  phonegap  webhtml     javascript  web       
 
 
      
@@ -400,11 +400,11 @@ d
 html        
   
     ,  
-nodejs  web
+node  web
  
 
 html   css   javascript       pc   android   ioshtml
-jquery  uireact,angular     vuejs  
+jquery  ui react,angular     vue  
 
 
     
@@ -452,7 +452,7 @@ web
 
   pcweb
 htmlhtml    csscss    javascript  wc   
-  mvvm  angularjs  reactjs  vuejs  web   
+  mvvm  angular  react  vue  web   
   
   phpjava
    
@@ -466,9 +466,9 @@ git    svn  gulp  webpack
        
 
    html   css   javascript
-   web  backbonejs   angularjs
+   web  backbonejavascript       angular
    mvc  django  springmvc
- js
+ javascript    
  http  restapiwebsocket
    web
    git   github   linux
@@ -488,10 +488,10 @@ web
 web
 gt 
   web
-javascript  htmlcss  
+javascript  html    css  
   smarty
   
-html   css   php   nodejs   
+html   css   php   node   
 
   
 
@@ -502,11 +502,11 @@ html   css   php   nodejs
 html   css   javascript
 wces  web
    
-js  reactjs   angular   vue    
+javascript      react   angular   vue    
         
 
 
-nodejs  git
+node  git
 
         
   
@@ -534,22 +534,22 @@ nodejs  git
 
      html    css    javascript  wc  
    html    css  
-   javascriptdom   bom   ajax   json  javascriptjquery
+   javascriptdom   bom   ajax   javascript    on  javascript jquery
          
    java    php    python
           
 
    web                                             
-      html   css   javascript   divcss    xhtml    css   html  css   jquery   angularjs   bootstrap   easyui         
+      html   css   javascript   divcss    xhtml    css   html  css   jquery   angular   bootstrap   easyui         
 
 
     app   hpc
-    react nativereactjs
+    react nativereact
     react native  androidios
     
 
  
- html   css   js  html
+ html   css   javascript      html
  reactweb  react native
     
  gulp  grunt  webpack
@@ -566,8 +566,8 @@ nodejs  git
 
      
     web   
-  js  dom    ajax   js jquery    zepto    vue    react
-  css    js    
+  javascript      dom    ajax   javascript     jquery    zepto    vue    react
+  css    javascript        
   node  grunt   gulp   webpack 
        
           
@@ -579,7 +579,7 @@ nodejs  git
 
      
    es    ts
-   vuejs
+   vue
    css
       
      
@@ -595,11 +595,11 @@ nodejs  git
 
    web
  pc    es
- jquery   vuejs   sass   less  vuecli  vuepc
+ jquery   vue   sass   less  vuecli  vuepc
  ,
    
  
- nodejs  webapp  openlayers     
+ node  webapp  openlayers     
 
 
      
@@ -609,8 +609,8 @@ nodejs  git
 
      
    html    css    javascript    ajaxweb  
-   jquery   bootstrap   reactjs   vuejs
-   nodejs  
+   jquery   bootstrap   react   vue
+   node  
                        
             
 
@@ -622,7 +622,7 @@ vue
 
 
     
-js    css    html  wc  
+javascript        css    html  wc  
     
   
   
@@ -631,15 +631,15 @@ http  restful
   
 
       java    python
-angularjs    vue
-nodejs
+angular    vue
+node
 
 linux    shell  awk  sed
   git
     
 
 
-web  htmlweb         javascript  html   div   css   xml   ajax                      sencha touch,extjs,jquery     web                  
+web  htmlweb         javascript  html   div   css   xml   ajax                      sencha touch,extjavascript    ,jquery     web                  
 
 
 web  
@@ -648,19 +648,19 @@ web
 
 
 web
-cssjs    
+cssjavascript        
 css    javascript   
   html
 
       
-ajax  angularjs,bootstrap,vue
+ajax  angular,bootstrap,vue
        
           ,
      
 
 
     hpc        
-  html   css   js  html    gulp  grunt  webpack     node   java   net reactweb  react native
+  html   css   javascript      html    gulp  grunt  webpack     node   java   net reactweb  react native
 
 
 cocosdx  
@@ -687,16 +687,16 @@ html    css    javascript
 
 
 
-   html    css    javascriptweb
+   html    css    javascript web
      web
    ui    
 
      
-   html     css     javascriptweb
+   html     css     javascript web
    divcsshtml  wc  
-   ajax    xml    json
+   ajax    xml    javascript    on
      uiwcdivcss  
-   jquery ,easyui   extjs   bootstrap   angularjs   
+   jquery ,easyui   extjavascript       bootstrap   angular   
       
 
  
@@ -705,16 +705,16 @@ html    css    javascript
 
       
 web             
- js  html    css      jquery  angularjs  react  bootstrap
+ javascript      html    css      jquery  angular  react  bootstrap
  wc     web
       
-    java  nodejs
+    java  node
          
 
 
  ai      
 
- web     web html     css     javascript js    nodejs 
+ web     web html     css     javascript javascript        node 
 
 
 zstack          iaas  zstack  iaas      zstackui    api               zstack       
@@ -727,18 +727,18 @@ zstackzstack              ,zstack
 
  javascript 
  css 
- vuejs    reactjs   angularjs 
+ vue    react   angular 
 git
  javascript 
  javascript 
- nodejs 
+ node 
 
  b 
                              
   
 
    pc   web   web
-      html    css    javascript       wc     web   html  nodejsjava    c    c    python    php    nodejs        
+      html    css    javascript       wc     web   html  nodejava    c    c    python    php    node        
 
 
      
@@ -748,7 +748,7 @@ git
      
      
    html    css    javascript  wc   
-   js  js
+   javascript      javascript    
    php    java    python    ruby
         
 
@@ -770,7 +770,7 @@ tcp    ip   http    sql
   
    
  happ
- javanodejs
+ javanode
    github
 
 
@@ -780,7 +780,7 @@ tcp    ip   http    sql
     
 
   
-js  
+javascript      
 flux  redux  vuex  mobx  
 es
 vuereact
@@ -798,7 +798,7 @@ to c  to b
 
   
 html   css   javascript
-vue    react    angularjs    
+vue    react    angular    
 
       
       
@@ -824,17 +824,17 @@ vue    react    angularjs
 
      web
    webjavascript    es   html    html   css    css       web
-   reactjs     redux     angular     vuejsspa  lesssass  webpack   gulp
+   react     redux     angular     vuespa  lesssass  webpack   gulp
    
-   nodejs  nodejs express    koa web
+   node  node express    koa web
    java    c    php    c    c    python    ruby  
        
               
 
 
      
-      html   css   js
-      js
+      html   css   javascript    
+      javascript    
    vue   webpack  
          
       
@@ -851,7 +851,7 @@ vue    react    angularjs
 
   
 c    s    c    s
-cocosd c as ts js lua
+cocosd c as ts javascript     lua
   
   
 
@@ -861,7 +861,7 @@ open gl es
  
                                               
 
-       web      html   css   wc        html   csses    javascript   jquery  angularjs  vuejs  reactjs              html   webweb   
+       web      html   css   wc        html   csses    javascript   jquery  angular  vue  react              html   webweb   
 
 
 webh   b
@@ -871,7 +871,7 @@ web
 
 javascript   ajaxweb  
 html    xhtml   css  
-nodejs
+node
    
 web  
   ,
@@ -880,7 +880,7 @@ web
 
 
    pcweb app  web
-   wchtmlcss  javascriptjquery   bootstrap  esnodejs
+   wchtml    css  javascript jquery   bootstrap  esnode
    mvvm  vue
      webpack
    
@@ -924,14 +924,14 @@ ps
 react
 
 
-html   css   javascript  html  jsxless
+html   css   javascript  html  javascript    xless
 javascript
 es    
 react    vue    angular
 git  github   sourcetree   gitflow
 github
 
-   web     pm      html   css   javascript  wc   pc         jsreactjs    angularjs    vuejs    
+   web     pm      html   css   javascript  wc   pc         javascript    react    angular    vue    
 
 
    
@@ -954,7 +954,7 @@ web
 
  html     css     javascript     ajax  web 
  webpack    gulp   es     babel     vue
-     nodejs 
+     node 
    
   
 cms   vms   oa
@@ -966,7 +966,7 @@ cms   vms   oa
    
    
 
-  js  css
+  javascript      css
 ant design
 linux  shell  
 python
@@ -1011,7 +1011,7 @@ rollup
 
        
 
-  javascript    nodejs       
+  javascript    node       
 
     react    vue    angular 
 
@@ -1024,7 +1024,7 @@ keep app store    apple store   demo app
     html  css   es   
   mvvue   react    angular
           
-       js sdk      
+       javascript     sdk      
  
         
          
@@ -1052,10 +1052,10 @@ app  pc  wap
 
 
   
-js    css    html  
-vuejs  reactjs  
+javascript        css    html  
+vue  react  
 gulp  webpack  
-nodejs  nginx  linux
+node  nginx  linux
 http  
      fiddler   chrome
   
@@ -1072,7 +1072,7 @@ http
        
    web  
    javascript   javascript 
-    javascript mvvm   vuejs  
+    javascript mvvm   vue  
     sass    less   es
    hybrid app
      
@@ -1092,7 +1092,7 @@ http
    html   csses
    javascript    
    vue   react  mvc   mvvm
-   nodejs  expresskoa
+   node  expresskoa
    webpack   gulp
    
          
@@ -1113,7 +1113,7 @@ java   php   linux
    html   csses
    javascript    
    vue   react  mvc   mvvm
-   nodejs  expresskoa
+   node  expresskoa
    webpack   gulp
    
          
@@ -1131,7 +1131,7 @@ pc
 webhtml    css    javascript       
 javascript  javascriptdom    
 web        
-     requirejs    webpack    es
+     requirejavascript        webpack    es
 
 hybird 
 
@@ -1145,7 +1145,7 @@ hybird
  web 
  mobile web 
 
- vuejs  react 
+ vue  react 
 
 
 
@@ -1161,7 +1161,7 @@ hybird
    html   csses
    javascript    
    vue   react  mvc   mvvm
-   nodejs  expresskoa
+   node  expresskoa
    webpack   gulp
    
          
@@ -1173,7 +1173,7 @@ java   php   linux
         
  web                  
 
-     java web   java ee  struct    springmvc  spring  ibatis    hibernateweb  jquery     javascript,easyui,bootstarp,echartshtml   css   htmlcsswc        
+     java web   java ee  struct    springmvc  spring  ibatis    hibernateweb  jquery     javascript,easyui,bootstarp,echartshtml   css   html    csswc        
 
 
                 pc
@@ -1184,23 +1184,24 @@ java   php   linux
    webapp
          
          
-   php    nodejs    hybridapp
+   php    node    hybridapp
    rn weex
 
         
                     html  html    web        
 
- web  webxhtml    xml    css    javascript    html    css  javascriptjquery   yui   mootools   ajax            web apps   
+ web  webxhtml    xml    css    javascript    html    css  javascript jquery   yui   mootools   ajax            web
+ apps
 
 
 h apph
                
   
 
- html   css   es   webpack        mvc angular   react   vue webpack   grunt   gulp          react native github    react   angular   vue   nodejs  
+ html   css   es   webpack        mvc angular   react   vue webpack   grunt   gulp          react native github    react   angular   vue   node  
 
                
-          html   css   javascript     http   react    vue    angularjs     grunt    gulp    webpack   nodejs    ruby    python    php    golang    java            git    
+          html   css   javascript     http   react    vue    angular     grunt    gulp    webpack   node    ruby    python    php    golang    java            git    
 
 
        
@@ -1209,10 +1210,10 @@ h apph
    
 
          vue
-   html   cssjavascriptweb     
+   html   cssjavascript web
     vue  vue     sass   es   webpack  
-   reactjs    angularjs    vuejs
-   servernodejs    php    python    java
+   react    angular    vue
+   servernode    php    python    java
      
            
             
@@ -1239,13 +1240,13 @@ h apph
  react
      
      
- js,es,htmlcss
+ javascript    ,es,html    css
    
  h
 
  
  github
- nodejs
+ node
 
 
 
@@ -1261,7 +1262,7 @@ h apph
    webapck,fis,gulp
 
    java    php    c    c    python    ruby
-   nodejs
+   node
      
       
 
@@ -1319,12 +1320,12 @@ c
 html    xhtml   css  
 xml  ajax
 css  ie   chrome   firefox
-javascriptjquery  
-  php  asp    aspnet  jsp
+javascript jquery
+  php  asp    aspnet  javascript    p
 html   bootstrapflash
         
 
-                        javascript   ajax   json   jave   phpweb                    svgsvg
+                        javascript   ajax   javascript    on   jave   phpweb                    svgsvg
 
 
 web
@@ -1332,8 +1333,8 @@ web
   
 
     github
-htmlcss  web    http
-js  js  angular   vue   react  angularionic
+html    css  web    http
+javascript      javascript      angular   vue   react  angularionic
   
 git
 
