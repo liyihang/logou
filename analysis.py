@@ -42,7 +42,7 @@ def wordcount():
         # data.append(items[i][0])
         # words.append(items[i][1])
         file = open('./4.txt','a')
-        file.write(data+'\n\r')
+        file.write(data+'\n')
         file.close()
 
 
