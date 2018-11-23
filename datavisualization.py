@@ -14,22 +14,22 @@ config = {
 def drawFunnel():
     db = pymysql.connect(**config)
     cursor = db.cursor()
-    sql = "SELECT city,COUNT(city) as num FROM `lagouqd` group BY city ORDER BY num desc"
+    sql = "SELECT city,COUNT(city) as num FROM `lagoujava` group BY city ORDER BY num desc"
     cursor.execute(sql)
     res = cursor.fetchall()
     data = list(res)
-    geo = Geo("拉钩全前端招聘公司分布", "data by lidoudou", title_color="white",
+    geo = Geo("拉钩全java招聘公司分布data by lidoudou", "data by lidoudou", title_color="#F4606C",
               title_top="bottom",title_pos="center", width=1000,
-              height=600, background_color='#BFEFFF')
+              height=600, background_color='#FDE6E0')
     attr, value = geo.cast(data)
 
     for index ,item in enumerate(value):
         if item > 200:
             value[index] =200
-    geo.add('拉钩全国前端招聘公司分布',attr,value, visual_range=[0, 200],
+    geo.add('',attr,value, visual_range=[0, 200],
             symbol_size=30, is_visualmap=True,is_piecewise=False,visual_type="size",
     visual_split_number=10,)
-    geo.render("拉钩全国前端招聘公司分布.html")  # 生成html文件
+    geo.render("拉钩全国php招聘公司分布.html")  # 生成html文件
 
 
 def drawtext():
@@ -46,21 +46,21 @@ def drawtext():
 def drawGeo():
     data = drawtext()
     geo = Funnel(
-        "全栈招聘企业技术栈",
+        "php招聘企业技术栈data by lidoudou",
         "data from lidoudou",
-        title_color="#fff",
+        title_color="#F4606C",
         title_pos="center",
         title_top="bottom",
         width=1200,
         height=600,
-        background_color="blue",
+        background_color="#E9EBFE ",
 
     )
     attr, value = geo.cast(data)
 
-    geo.add("",attr,value,visual_range=[0, 200],maptype="china",symbol_size=35,
+    geo.add("",attr,value,visual_range=[0, 100],maptype="china",symbol_size=35,
             is_visualmap=True)
-    geo.render('全栈技术栈.html')
+    geo.render('php技术栈.html')
 
 
 if __name__ == '__main__':

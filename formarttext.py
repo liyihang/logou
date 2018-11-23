@@ -1,6 +1,6 @@
 import re
 def get_content():
-    file = open('1.txt','r',encoding="utf-8")
+    file = open('php.txt','r',encoding="utf-8")
     lines = file.readlines()
     file.close()
     for ids, line in enumerate(lines):
@@ -11,8 +11,8 @@ def get_content():
             word = re.compile(r'[\u0061-\u007a,\u0020]')
             data = "".join(word.findall(line.lower()))
 
-            clearfile = open('3.txt','a')
-            clearfile.write(data+'\n')
+            clearfile = open('phpclear.txt','a')
+            clearfile.write(data+' \n')
             clearfile.close()
 
     file.close()

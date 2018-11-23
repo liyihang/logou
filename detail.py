@@ -26,13 +26,13 @@ def crwalDetail(id):
 
         data = re.sub(r'<.*?>','',str(job_bt))
 
-        file = open('java.txt','a',encoding='utf-8')
+        file = open('php.txt','a',encoding='utf-8')
         file.write(data)
 
 def main():
     db = pymysql.connect(**config)
     cursor = db.cursor()
-    sql = "SELECT positionIdInLagou FROM `lagoujava` GROUP by positionIdInLagou"
+    sql = "SELECT positionIdInLagou FROM `lagou1` GROUP by positionIdInLagou"
     cursor.execute(sql)
     res = cursor.fetchall()
 

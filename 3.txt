@@ -1,1346 +1,1660 @@
 
 
+service   api  
 
 
-web
-
-web
-            
-  
-
-     
-
-    
-javascript   ajaxweb  
-html    xhtml   css    
-wc     web  
-web    
-      
-
-aflash   mobile web    wap   html    css  
-blinux  php   java   c    c  
-c  
-
-     
-  web
+java   io      jvm       
+web        spring                        struts                hibernate           
+   mongodb                        memcached                    active   mq               redis                    dubbo                
+sql    mysql       linux              
 
 
-html    xhtml   css  
-xml  ajax
-css  ie   chrome   firefox
-javascript jquery
-  php  asp    aspnet  javascript    p
-html   bootstrapflash
-        
-
-                        javascript   ajax   javascript    on   jave   phpweb                    svgsvg
 
 
-web
-  
-  
-
-    github
-html    css  web    http
-javascript      javascript      angular   vue   react  angularionic
-  
-git
-
-      
-
-   pc     web     javascript    bridge                        html    css    javascriptes   es   server  php   node   java   python   jquery zepto   bootstrap   backbone   angular    requirejavascript     seajavascript       git   grunt   linux           github blog      android objectc
-
-               web 
-     html
-   xhtml     html    css  wc     
-   javascript   jquery   jquerymobile  angular vue   mvchtml    css          web         
-     
-       
-                                                       
 
 
-              amp      
-    
-  
 
 
-              
 
-      html    javascript        css    html    flash   ajaxjquery    moontools    extjavascript        node   javascript                    
-
-web    b       web     web                    web       html    css    javascript   wc       jquery   bootstrap   djavascript       echarts                web     java  web mvc     iosandroidapp 
-
-
-        
-
-   pc   pad   phoneweb      
-   web 
-   
-   
-
-     
-   html   css   javascript   ajax   dom  divcss   wc        
-   javascript   jquery   angular   node  bootstrap
-   gulp
-        
-        
-   java
-
-
- web
- httpweb
- wc  html   css   javascript   
-   
- mvc  mvvm
- git   gulp    grunt    webpack      require 
-   
- javascript    
- mac
-   
- javascript    as
-
+java
+mapreduce        hadoop        
+java   eclipse          
+   struts            spring                        hibernate            jee
+    shell         pythonperl
  
- react    vue
+hbase    oracle        mysql   sqlserver
 
+
+kk
+
+
+
+
+
+
+
+openfire
+bsweb   ssh            java                       spring                            spring                 mvc      mybatis         
+     dubbo                   zookeeper        
+    mysql   
+java
+
+
+java
+
+rtb
+
+
+
+
+
+
+
+
+
+
+
+jee
+
+java
+
+    mysql   
+   kafka                 mq           dubbo                
+
+
+  protobuf   rpc           zookeeper        geekthrfit    hadoop        hbase    couchbase        redis             docker
+hbase     
   
-
-    
-  
-  
-              
-  
-          
+  java   shell         pythonruby   groovy                  codestylejava   spring                 guava    apache               commonssvnideamaven   spring                    hadoop         hbase       
 
 
- web
- javascript
- html    css    javsscript
-       saas   crm      
-
-     
- html   css   javascriptweb
- web  javascript         
- php   java  python  oop
-   
+service   api  
 
 
-web
-javascript
-html    css    javsscript
-      saas   crm      
-
-  
-html   css   javascriptweb
-web  javascript         
-php   java  python  oop
-  
-
-      web  html   css   javascript   ajaxhttp restful api      jquery   vue   mvvm   git   node        ,      
-
-
-pch
-web
-pcweb appwebweb    web
-wchtml    css  javascriptesnode
-jquery   bootstrap
-mvvm  vue  vue
-  webpack
-  
-
-
-   web  
-   
-   
-   
-        
-
-   
-   html    css  html    css  wc     html
-   javascript   ajaxweb
-   
-   react,seajavascript      jquery  boostrap  
-   yslow   pagespeed
-           
-       
-
-
-    
-  
-
-web        
-      
-
-  
-
-
-javascript   ajaxweb
-htmlxhtml   css  
-wc     web
-web  
-     
-linux  ccphpjava
+java   io      jvm       
+web        spring                        struts                hibernate           
+   mongodb                        memcached                    active   mq               redis                    dubbo                
+sql    mysql       linux              
 
 
 
-html,
-,
-,,
-,
 
 
- angular   vue react
+
+
+
+
+java
+mapreduce   hadoop        
+java   eclipse          
+   struts            spring                        hibernate            jee
+    shell         pythonperl
  
- server    client    browser
-   node   python   java   go   php
+hbase    oracle        mysql   sqlserver
 
-  
-     
-   web  
-   demo  
-   react    html    css    javascript    flashweb  
-     
-       
-  
-      
-webreact    css    html    javascript  react    html    css  
-webjquery,bootstrap,react  
-  
-  
-java  
 
+kk
 
-   
 
-     
-h   
-javascript       html   css
-web  cavas  css
-     javascript        jquery   vue   zepto
-  echarts   d
-     
 
 
-   
-      html
 
-       
-     
-   wc  html   css   javascript
-   photoshop  
-     
-       
 
-css  css
-javascript  web  react, vue     jquery
-xhtml    xml    css   javascript   ajax  wc  javascript  es
-javascript      mvc   mvvm
-  css
-html
 
+openfire
+bsweb   ssh         java   spring                            spring                 mvc      mybatis         
+     dubbo                   zookeeper        
+    mysql   
+java
 
 
-   webwap
-   node    
+java
 
-   
-   html    javascript     es    css
-      
-   express    koa   fis    gulp
-   
-        
+rtb
 
-    html   ui            html css  html javascript    ajaxweb   html    xhtml    css          
 
 
-web
-    
-  
-
-html    css    javascript web
-mvcflux     angular     reactredux
 
-  svg   webgl  d
-tdd    bdd
 
 
-docker
-github
-node   python   java
 
 
 
-   
-   react nativereact
-      
-     
 
-  
-   react    reactreact native
-   javascript,
-   html   css   javascript       ajax   node  
-     
-         
 
+jee
 
-   
- ui  web 
-
-  
+java
 
-  
-wc  html   css   javascript
-cssjavascript  vue
-  node
-  
- web    web 
-
-   fm webportal          code review  design review                  html    css    javascript     bootstrap       go    python    java  linux  mysql    nosql            
-
-   
-   web
-   web
-
-     
-   html    xhtml   css  javascript  javascript    
-   wc     html
-   node   java   linux
-      
-
-      ,                  html    css     javascript                          http    node    ruby    python    php    mvvm  vue  react   linux      github   
-
-
-     pc   app
-   
-           
-                
-   fe        
-
-   html   css   javascript      html   css  localstorage  css  
-   apphybrid  
-     pc      web
-     jquery  vue
-     gulp  fis  webpack
-   svngit
-   php  java    velocity
-           
+    mysql   
+   kafka                 mq           dubbo                
 
-     
-   web components  
-   node  node  express  koa  linux
-
-    
- node    web 
- express   koa  web framework
 
 
- react universal 
-   python   javascript 
- typescript 
 
+       java   php            linux              unix     mysql   memcache    redis            nosql tcpip    https        ocket    
 
-     
-   web     
-   web
-   javascript    
-         
-   html   css   javascript    
-   
-   
+javajava   html        cssxmljs   jquery                ajax        mvc       spring                    struts            mybatis             mysql   oracle    web    tomcat               jboss
 
-     
-   web
-   divcsshtml  wc
-   javascript   ajax   jqueryweb  
-            
-       
-   
-   java   php   html
-
-javascript       
-html     css     emcascript
-ajax
-http
-
- angular 
-easyuiuiui
-node     node
-
-ionic  react native app
-
-  web  xhtml   javascript   css   html   ajax   javascript    onjquery   extjavascript       bootstrap         photoshop    svn      htmlsencha touch,jquery mobile  sencha  phonegap  webhtml     javascript  web       
-
-
-     
-         
-      
-      prd   
-                      
-     
-           
-
-   axure rp   visio
-   prd
-     
-         
-     
-     
-
-         
-          
-       
-     
-       
-   party  
-
-d
-
- ,,, 
-
-   pc   h
-html        
-  
-    ,  
-node  web
- 
-
-html   css   javascript       pc   android   ioshtml
-jquery  ui react,angular     vue  
-
-
-    
-github
-
- 
-    
-      
-
-
-    
-    
-
-
-   
-
-       gt
-       
- 
-    
- blog    
-   
-   
-   
-
-
-       
-
-       gt
-       
- 
-    
- blog    
-   
-   
- 
- 
- java    php
-
-
-  
-  
-    
-web        
-
-  pcweb
-htmlhtml    csscss    javascript  wc   
-  mvvm  angular  react  vue  web   
-  
-  phpjava
-   
-git    svn  gulp  webpack
-
-
-        
-     
-   
-   uiweb
-       
-
-   html   css   javascript
-   web  backbonejavascript       angular
-   mvc  django  springmvc
- javascript    
- http  restapiwebsocket
-   web
-   git   github   linux
- 
-
-   
-   openstack
-   
-      
-   
-   
-
-
-gt 
-  
-web
-web
-gt 
-  web
-javascript  html    css  
-  smarty
-  
-html   css   php   node   
-
-  
-
-  coding    
-    
-    
-
-html   css   javascript
-wces  web
-   
-javascript      react   angular   vue    
-        
-
-
-node  git
-
-        
-  
-           
-
-   w  
-
-   ok  
-  
-
-
-       
-              
- 
-     
-
-   
-         
-        
-     
-      
-
-
-            web
-
-     html    css    javascript  wc  
-   html    css  
-   javascriptdom   bom   ajax   javascript    on  javascript jquery
-         
-   java    php    python
-          
-
-   web                                             
-      html   css   javascript   divcss    xhtml    css   html  css   jquery   angular   bootstrap   easyui         
-
-
-    app   hpc
-    react nativereact
-    react native  androidios
-    
 
- 
- html   css   javascript      html
- reactweb  react native
-    
- gulp  grunt  webpack
-         
- node   java   net
-
-
-    webh
- web       java
- javascript      
-      
-   
-     
 
-     
-    web   
-  javascript      dom    ajax   javascript     jquery    zepto    vue    react
-  css    javascript        
-  node  grunt   gulp   webpack 
-       
-          
 
 
-   h  
-   ui  
-           
 
-     
-   es    ts
-   vue
-   css
-      
-     
-            
 
-   
-    
+   jsp            servlet        javascriptweb   spring                    struts            ibatis                 
 
+    mysql   oracle    
+unix    linux                 shell         python
+tcpiphttp
 
- pc
-            
- web
 
-   web
- pc    es
- jquery   vue   sass   less  vuecli  vuepc
- ,
-   
- 
- node  webapp  openlayers     
 
 
-     
-     web     
-     
-   
 
-     
-   html    css    javascript    ajaxweb  
-   jquery   bootstrap   react   vue
-   node  
-                       
-            
 
+java
 
-  
-vue  
-    
-             
+java    it
 
+           spring                 mvc   restful   spring                        hibernate                  mybatis                 redis                   zookeeper            jms        mysql           redis                mysql       nginx              
+        dubbo                
 
-    
-javascript        css    html  wc  
-    
-  
-  
-http  restful
-  
-  
 
-      java    python
-angular    vue
-node
 
-linux    shell  awk  sed
-  git
-    
 
 
-web  htmlweb         javascript  html   div   css   xml   ajax                      sencha touch,extjavascript    ,jquery     web                  
 
 
-web  
 
-   
 
 
-web
-cssjavascript        
-css    javascript   
-  html
+bs bs
+   spring                    hibernate              struts             struts         
+sqloracle        mysql      hibernate           my   ibatis                 
+oracle        tomcat               
+   eclipse          
 
-      
-ajax  angular,bootstrap,vue
-       
-          ,
-     
 
 
-    hpc        
-  html   css   javascript      html    gulp  grunt  webpack     node   java   net reactweb  react native
 
 
-cocosdx  
-javascript  
-  
-      
 
-           
-cocosd  java       
-iosandroid      
-  
-  
-  
-  
 
 
-      html
 
-html    css    javascript
-   
-   
-   
-   
 
 
+javajava
+   html        javascriptcssxpath
 
-   html    css    javascript web
-     web
-   ui    
+java
 
-     
-   html     css     javascript web
-   divcsshtml  wc  
-   ajax    xml    javascript    on
-     uiwcdivcss  
-   jquery ,easyui   extjavascript       bootstrap   angular   
-      
 
+
+
+
+
+
+
+javajava
+   spring                    spring                  mvc   mybatis         
+sqlsql    mysql   
+web   html        javascript   ajax        xml
+nosql        redis            
+oop
+
+
+
+
+
+
+
+javajava   jvm       
+   spring                    mybatis             mysql   sql   shell         python
+nosql    redis             memcache   couchebase
+thrift protobuffer
+
+
+kk    
+
+
+
+
+
+
+java
+oo
+java
+   jvm       
+jee   spring                    hibernate           
+    apache                       nginx              ha
+sqlsql
+
+
+
+
+ java
  
  
  
-
-      
-web             
- javascript      html    css      jquery  angular  react  bootstrap
- wc     web
-      
-    java  node
-         
-
-
- ai      
-
- web     web html     css     javascript javascript        node 
-
-
-zstack          iaas  zstack  iaas      zstackui    api               zstack       
-zstackzstack              ,zstack                  
-
- zstack 
-  
-
-         
-
- javascript 
- css 
- vue    react   angular 
-git
- javascript 
- javascript 
- node 
-
- b 
-                             
-  
-
-   pc   web   web
-      html    css    javascript       wc     web   html  nodejava    c    c    python    php    node        
-
-
-     
-     
-   
-
-     
-     
-   html    css    javascript  wc   
-   javascript      javascript    
-   php    java    python    ruby
-        
-
-                 
-          html    css    javascript  ide    jquery  yui            php              
-
-
-webapp   
-h
-      
-  
-
-  
-javascript   html   css  jquery   zepto   mobx  react   angular   vue  html  htmlh  android    ios
-cordova    phonegap  webview
-tcp    ip   http    sql
-  
-      
-  
-   
- happ
- javanode
-   github
-
-
-
-
-  
-    
-
-  
-javascript      
-flux  redux  vuex  mobx  
-es
-vuereact
-   
-
-
-svg   canvas   webgl
-h
-cocos  unity
-
-
-to c  to b   
-
-  
-
-  
-html   css   javascript
-vue    react    angular    
-
-      
-      
-  
-    
-    
-
-
-     pc   app
-     
-     
-
-             
-     
-   html  javascript   ajax   cssweb  
-         oop   mvc  webjava
-            app
-         
-
-
-              
-   web
-
-     web
-   webjavascript    es   html    html   css    css       web
-   react     redux     angular     vuespa  lesssass  webpack   gulp
-   
-   node  node express    koa web
-   java    c    php    c    c    python    ruby  
-       
-              
-
-
-     
-      html   css   javascript    
-      javascript    
-   vue   webpack  
-         
-      
-
-     
-        
-      app  
-
-
-   
- 
-     
-   
-
-  
-c    s    c    s
-cocosd c as ts javascript     lua
-  
-  
-
-open gl es
-
-
- 
-                                              
-
-       web      html   css   wc        html   csses    javascript   jquery  angular  vue  react              html   webweb   
-
-
-webh   b
-web   
-web
-
-
-javascript   ajaxweb  
-html    xhtml   css  
-node
-   
-web  
-  ,
-  
-     
-
-
-   pcweb app  web
-   wchtml    css  javascript jquery   bootstrap  esnode
-   mvvm  vue
-     webpack
-   
-   
-
-
-     
-         
-     
-
-   
-   
-   
-     
-   
-       
-ps
-     
-     
-     
-
-
-
-   web
-   
-   
-
-     
-   web 
-   
-   h 
-   
-        
-     
-ps
-     
-     
-     
-
-
-react
-
-
-html   css   javascript  html  javascript    xless
-javascript
-es    
-react    vue    angular
-git  github   sourcetree   gitflow
-github
-
-   web     pm      html   css   javascript  wc   pc         javascript    react    angular    vue    
-
-
-   
-   
-   
-
-   javascrpit
-   html  html
-     linux    uinx  linux    unix
-              
-       
-       
-      amazon
-   app   h
-
-
-web
-        
-web   
-
- html     css     javascript     ajax  web 
- webpack    gulp   es     babel     vue
-     node 
-   
-  
-cms   vms   oa
-   
-
-
-  ibm         
-
-   
-   
-
-  javascript      css
-ant design
-linux  shell  
-python
-flask
-docker
-
-                  baassdk        
-            ip
-                               ibm   bat
-  
-  
-  
-  
-    
-
-https        zigguratcn
-
-                                    happy hour
-
-
-     
-   
-     hybird   h
-     
-
-      
-
-  javascript   html   css    dom    bom    
-ajax    canvas    css     
-jquery    zepto    lodash 
-    react    vue    angular 
-         webpack    gulp    
-rollup
- h app hybird app
-
-  
-     
-
-   
-    
-   
-
-       
-
-  javascript    node       
-
-    react    vue    angular 
-
-
-keep app store    apple store   demo app         
-  
- 
-  keep 
-   
-    html  css   es   
-  mvvue   react    angular
-          
-       javascript     sdk      
- 
-        
-         
-   
-   
-     
-  rmbp  dell
- plus               
-     
-
-  ipad 
-app store app store 
-
- 
-keep office
-    a   
-    c   
-
-
-app  pc  wap    
-
-    
-  
-
-
-
-  
-javascript        css    html  
-vue  react  
-gulp  webpack  
-node  nginx  linux
-http  
-     fiddler   chrome
-  
-      
-
-
-,,,
-
-   apppc
-   
-   
-      
-
-       
-   web  
-   javascript   javascript 
-    javascript mvvm   vue  
-    sass    less   es
-   hybrid app
-     
-   php
-
-   
-
-
-
-   pc
-   node
-     
-   
-   
-
-   javascript   ajax   jquery   html    xhtml   css
-   html   csses
-   javascript    
-   vue   react  mvc   mvvm
-   node  expresskoa
-   webpack   gulp
-   
-         
-
-github
-
-java   php   linux
-
-
-
-   pc
-   node
-     
-   
-   
-
-   javascript   ajax   jquery   html    xhtml   css
-   html   csses
-   javascript    
-   vue   react  mvc   mvvm
-   node  expresskoa
-   webpack   gulp
-   
-         
-
-github
-
-java   php   linux
-
-
-pc     
-   
-   
-
-    
-webhtml    css    javascript       
-javascript  javascriptdom    
-web        
-     requirejavascript        webpack    es
-
-hybird 
-
-
-   
-  
  code review
 
- html      css      javascript
 
+javajavabs
+    spring                  mvc   hibernate              ibatis                 
+    mysql   oracle    db
+   eclipse          intellij idea 
+mavenjenkins     git
+web    html        cssjs
+java aop
+
+
+
+
+java
+leveltt
+          java     spring                  framework    
+anicloudapi
+
+
+anicloudooapiappbpmerpanicloudapi
+anicloudapi
+
+
+   
+
+  java   golang           php        python     linux                       mysql           mongodb                          redis                     nginx                
+    soa            
+
+
+
+
+
+
+
+
+
+java   golang           php        python
+    linux                       mysql           mongodb                          redis                     nginx              
+
+
+    soa            
+
+
+
+
+
+
+java
+   servlet           struts            spring                 
+    mysql   oracle    sql server
+
+bi
+
+
+
+ 
+ 
+
+ 
+bug 
+ 
+ 
+
+
+  javajee   jsp            servlet        jdbc
+ umlrose
+    html        javascript   jquery         xmljms   div         css
+  oracle    sql serverdb
+    struts         webwork   struts            spring                 hibernatmvc
+ 
+    eclipse          powerdesignervisioplsqlwebsphere weblogic
+ 
+ 
+
+app
+app
+ 
+
+
+ehrsaba
+
+
+
+   javaee         java
+   html        css   ajax        javascript   jquery         bootstrup
+    mysql   oracle    sql
+   ssh            mybatis                    spring                 mvc   
+    linux              maven
+    redis            
+uml
+
+
+
+
+
+
+keep app store  apple store  demo app  
+ 
+
+ 
+ 
+ 
+
+ java
+ 
+     mysql      mongodb                 
+ dau
+ 
+
+   
+ 
+ 
+ 
+ 
+ 
+ rmbp dell
+plus
+ 
+ 
+
+
+  ipad 
+app store 
+app store 
+
+
+
+
+
+keep 
+keep office
+
+a
+
+c
+
+javaweb java  collectionreflectiothread    linux                 spring                     netty                    spring                    hibernate              ibatis                  
+
+
+b
+ 
+
+
+
+
+
+
+
+javajava
+    soa               spring                        spring                 boot                 mbatis                redis               mq       
+
+
+
+
+
+
+
+
+java
+
+sql    mysql   
+
+
+
+
+java
+l
+ 
+ 
+
+
+ java
+ 
+ java java   spring                    hibernate           java
+ sql    mysql   oracle    postgresql
+ 
+
+ nosql   mongodb                 hbase        redis            
+    hadoop        stormspark
+ httprestful api   html        xmljavascriptcss
+ 
+ python
+ a   mq       prabbit   mq          kafka              
+ git scm jenkins
+
+
+
+wap   html        
+
+
+
+
+
+
+javajeemavenant
+ 
+   spring                    struts         
+
+
+
+ javamvc   spring                  web      mysql      mongodb                      linux                 shell              redis                 memcached                    hadoop          hbase      spark  storm      dubbo                  
+
+        java    spring                 freemarker   mybatis         mvcrest web   html        css javascript   jquery              tomcat                   apache                  nginx                   redis            hbase       kafka              storm memcache   elasticsearch                     spring                 boot              oopaop        soa
+io    socket            
+
+
+    
+   java           spring                 mvc          spring                        mybatis          unix    linux                 shell         pythongo internet tcpi p http git maven jenkins docker gradle java
+
+
+
+
+
+
+
+
+
+
+
+
+
+java
+mvcorm
+java
+
+
+javajava
+
+http   jvm       nio   rpc        
+
+
+
+
+ 
+ 
+ 
+
+java
+   ssh         
+    mysql   
+httpclient jsoup webdriver   html        unitnutchselenium
+   mongodb                 
+solr lucence
+javascript
+
+  jeejavajava    linux              windows             
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+ 
+ java javaweb
+ 
+ sql    mysql   oracle    
+ 
+
+java
+
+
+
+review
+
+
+
+ 
+ javajava
+    jvm       java   io   
+   spring                    mybatis            struts             tomcat               java
+nosql hbase       memcached                    redis               mongodb
+
+    linux                 shell          
+
+
+
+
+
+
+
+
+
+
+
+
+java
+   spring                        mybatis                 mysql           redis            
+    linux              maven       shell         
+
+    
+
+
+
+
+
+
+
+java
+
+
+amp
+
+
+
+javaoracle        mysql   nosql queuen io       jvm          mq           dubbo                   rpc        drools
+ redis
+
+
+
+
+code reviewcode review
+
+
+
+
+java
+javajeejava
+java   jvm       io
+
+
+
+  crm  
+
+ web java jeeweb   spring                      mysql       shell         python 
+
+lead software engineer
+responsibilities
+be responsible for the complete lifecycle of software development     including designing     prototyping     implementation     testing     maintenance and technical support
+produce technical specifications and determine operational feasibility
+write well designed     testable     efficient code
+develop software verification plans and quality assurance procedures
+integrate software components into a fully functional software system
+document and maintain software functionality
+tailor and deploy engineering tools     processes and metrics
+serve as the expert of online advertising industry     and drive the industry with continuous technical innovation
+ partner with global engineering     product and operations teams to further incorporate collective innovations
+about you
+extensive experience  years preferred on building and operating large scale webbased business applications including web sites     mis     erp     workflow tools etc
+solid knowledgeable in the field eg http     lamp     java     cuttingedge technologies
+experience with ruby on rails is a plus
+rich experience with javascript        html        css        ajax             and popular frameworks     like    jquery                 bootstrap             etc     is a plus
+experience in building browserbased richclient web application is a plus
+strong passion with learning  practicing new technics
+handson technical lead experience is preferred
+team working skills     good communication skills     willingness to work under pressure
+excellent english skills on listening     speaking     reading and writing
+masters degree in computer science or related field is a plus
+
+
+ 
+
+
+java
+
+
+java   spring                    mybatis         java    soa                mysql   sql   hadoop        mapreducehivehbase       kafka              spark                      
+
+
+
+
+code review 
+
+
+javajee   hibernate                  mybatis                spring                        struts         
+   mq          rpc        
+    linux                 jvm       
+
+tcpiphttpweb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  p p
+
+javajava ee    soa            osgi   spring                    mybatis         
+    mysql   oracle    web
+    linux              unix   shell         
+
+
+ 
+
+
+amp 
+
+
+
+
+
+
+
+
+
+java   spring                    hibernate           
+powerdesigner
+uml
+webservicexml schema
+tcpipjava
+   ajax        
+webjs   html        css   jquery         
+my sql
+jfinal    freemarker 
+
+
+ 
+ 
+
+
+ 
+ 
+ otnsdh
+ 
+ java
+ webservice thrift restful    redis            jmsnsq   kafka              docker       spring                 boot                spring                  cloud
+     mysql   oracle    opentsdb
+ 
+ 
+ 
+ 
+
+
+
+ 
+ api
+ 
+ 
+ 
+
+ java
+ 
+ jee    linux              
+ 
+    struts            spring                    ibatis                 
+     mysql   oracle        tomcat               jboss websphere weblogic
+
+ 
+
+
+
+
+
+
+
+
+ java 
+java
+     mysql     nosql 
+     linux                   shell               linux               
+
+ 
+
+ javaweb   spring                     mysql       redis                linux                 shell         
+
+
+
+
+   javacbash         nginx                  mysql       redis               hadoop                  linux              tcpip http      
+
+
+
+
+
+
+
+    
+
+oopjava   spring                    hibernate               redis            
+javascript   ajax           html        css   jquery            bootstrap        
+    mysql   
+    tomcat               
+    linux              
+io
+
+
+
+
+
+
+
+
+
+
+itjava
+mindmanegerpptexcel
+
+
+java java  java     spring                     mybatis          web 
+
+java java  java     spring                     mybatis          web 
+
+oooo
+
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+     jvm        nio   rpc         
+      mysql     nosqlqueue 
+ 
+
+oo oo  
+  java   jvm       multithreading     nio     classloader        rpc         javalucene   elasticsearch              solr     rpc          
+
+
+ open api
+ 
+ 
+
+ 
+ 
+ 
+     linux              java
+ 
+ 
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+java
+
+
+
+java   spring                  mvc   mybatis         
+    mysql       mysql   
+   rpc        
+   shell            shell         
+
+
+
+java   jvm       multithreading     nio     classloaderjee    soa               mq       cachedbnosql
+web    tomcat               jetty    nginx              
+
+
+
+   hadoop             etlolapkylindruid
+activiti
+
+
+
+leandev is now hiring a java  jee software engineer to join our beijing office
+you will be working with the latest technologies and methodologies in our high performing agile team
+progress is made in a rapid pace and you will be expected to both take responsibility and work independently
+requirements
+ java  jee enterprise solutions using distributed components
+ web development using x   html             css        ajax             jsf
+ relational databases     including traditional sql as well as orm technologies
+     soa             with esb     web services and service inventories
+ a teamplayer used to flexible and agile environments
+ strong self motivation and problem solving skills
+ a ceaseless interest in learning the latest cutting edge technologies
+ exceptionally strong communication skills     capable of providing clear explanations of technical challenges and solutions
+ skilled both in verbal and written english
+experience with open source crossplatform development on     linux               is a major plus
+experience working with agile projects is a major plus
+experience working with projects in the banking sector is a major plus
+
+
+
+
+
+java   io   java   jvm       java    linux                  shell         python    redis            hbase       kafka              storm        
+
+   java   jsp         jsfweb java     eclipse          svngitmaven     tomcat               web    linux               structs   spring                    hibernate            postgresql    mysql   sql    memcached                    redis               mongodb                 nosql    html        cssjavascript   ajax        web java   io   java     socket              
+
+java 
+ 
+ 
+ 
+ 
+ 
+java 
+javajee   jsp         js   servlet           struts            spring                            spring                 mvc      hibernate              ibatis                    mybatis             xml    tomcat               java 
+    tomcat                   apache                  nginx               
+    mysql   sql 
+ 
+    redis                dubbo                   mongodb                     solrhbase     
+pp
+
+
+
+
+
+
+
+
+java           spring                 mvc          spring                        mybatis         
+unix    linux                 shell         pythongo
+internettcpiphttp
+gitmavenjenkinsdockergradle
+java
+
+
+
+
+
+
+
+
+
+
+
+
+
+java
+javajava
+   mq          rpc        
+    linux                 jvm       
+
+
+tcpip    http    udp
+
+jeejeejavaweb
+   spring                  mvc   spring                  ioc   hibernate              mybatis         
+    apache                       nginx                      tomcat                        linux              
+oracle    sql server    mysql   
+
+
+
+
+
+
+
+
+
+
+java   io      jvm       
+   spring                     mysql   web
+
+java
+
+
+   shell         python
+    tomcat                   nginx              
+   kafka                  redis               rpc        
+    dubbo                
+
+
+
+
+
+
+javaweb
+
+    mysql       redis            thrift   zookeeper        
+
+        
+   
+
+java   jvm          spring                    ibatis                      mysql   oracle     rcp       php        
+
+java   shell         python     mysql         redis                kafka                 zookeeper           spring                  http    https        tcp    dubbo                
+
+
+
+
+saas
+crm
+
+   php        javapython
+dbosweb    linux              
+
+
+
+ 
+ 
+
+ java
+
+  javajava web   spring                  mvc   mybatis         web    mysql       mysql   hbase    stormspark
+
+
+java   eclipse             html           jsp            servlet        websql
+   struts            spring                    hibernate           
+javascript   ajax           html        css
+
+
+
+
+
+
+
+myrunning 
+marvsmart ufitness
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sqloracle        mysql   sql server
+   spring                     dubbo                   mybatis            hibernate           
+rocket   mq       
+
+
+
+
+
+
+
+
+
+java
+java
+jee   spring                                spring                 mvc          mybatis         
+junitmaven
+   html             javascript     xmlxsl        ajax           jquery         
+oracle        mysql   sql
+    linux              svn    tomcat                   apache              
+
+java
+
+
+
+
+
+
+
+   spring                     netty                    mysql       redis            
+    tomcat                   nginx              
+   jvm          jvm       
+it
+
+
+
+   
+
+javajee           spring                 mvc      ibatis                    spring                     mysql   oracle       jquery            ajax           jsp         jstl   memcached                    redis               mongodb                 web
+
+
+   
+
+javajee           spring                 mvc      ibatis                    spring                     mysql   oracle       jquery            ajax           jsp         jstl   memcached                    redis               mongodb                 web
+
+         jee  java    spring                    struts            ibatis                 java     mysql   postgresql  nosql   mq       cachetcpip
+
+
+javac   delphi                       eclipse             delphi                    oracle        mysql   sql serversql    linux              
+
+
+
+
+
+
+
+
+javajava
+   spring                    hibernate              struts         
+
+    linux                  nginx              resin   shell         awkpython
+    mysql   
+   html        javascriptcss   ajax         
+   eclipse          mavenantsvn
+
+
+javajavajee   struts            spring                    hibernate              mybatis         web   html        cssjswebjavasql
+api
+
+
+
+java
+   java                    
+    
+
+     
+    linux              
+    mysql   
+
+mmorpg
+
+
+
+
+
+
+
+
+   java                       struts            hibernate              spring                    ibatis                 web
+ 
+app
+javascript   html        ccsjs
+sql    mysql   orcalesqlserver
+    tomcat               resinwebsphere
+   eclipse          myeclispe
+
+
+
+   java                    jse    jee       java                     web
+   java                    web
+js    css       html        
+oracle        mysql   
+
+
+
+
+
+          java                     ee   java                       spring                    hibernate              ibatis                 cachemessagingworkflow   struts              mysql   oracle    sql web   java                    script   ajax        jasonjqery    prototype    ext       html        xmlmvc web  
+
+
+   java                       java                       jvm       
+
+ 
+ 
+ 
+ 
+ 
+
+
+   java                    
+   java                    
+    linux                  tomcat               
+   spring                            spring                 mvc      hibernate              mybatis         
+opencmjpresscms
+    
+
+
+
+
+
+
+   java                       java                    web
+   spring                            spring                 mvc      hibernate           maven
+   jquery            ajax           bootstrap        
+    mysql   oracle        tomcat               weblogic
+
+
+
+
+
+   java                    java   eclipse          antmavenwebweb   spring                            spring                 mvc      spring                  boot        mybatis         sql    mysql   oracle        redis            nosql      
+
+java       spring                    mybatis             mysql       linux                  
+
+
+
+
+
+        baseor
+
+
+
+
+java   jvm          spring                    ibatis                 
+    mysql   oracle    
+rcp
+
+
+
+   php        
+
+        baseor
+ 
+ team lead
+ 
+
+    java                       java                    web   spring                    hibernate              ibatis                 
+     mysql   oracle     db
+     linux                unix    linux                unix
+ web
+tb
+ 
+
+
+
+
+
+
+ java  java  java 
+    spring                   orm     hibernate              mybatis         
+    mysql    nosql   mq       
+http    jvm        nio   rpc         
+
+
+
+
+
+
+
+
+
+
+ java  java  java 
+    spring                   orm     hibernate              mybatis         
+    mysql    nosql   mq       
+http    jvm        nio   rpc         
+
+
+
+
+
+ 
+ 
+saas
+crm
+
+   php           java                    python
+dbosweb    linux              
+
+
+
+
+
+
+
+
+
+
+
+java
+mvc            spring                 mvc      spring                 sping jdbc   ibatis                 
+    tomcat               
+uml
+
+
+
+
+l
+java
+  
+     java                    java   io   
+      soa                soa            
+      mysql   nosql
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+jee
+hystrix
+webservicerestful api
+nosql    mysql      mongodb                 couchbase    
+       spring                 boot                spring                 cloudvertx   kafka                  apache               camelrx   java                    
+   jvm          jvm       visualvmjmcdtrace
+junittestngmock
+escqrs
+    linux              devops
+scala     clojure
+
+
+
+ java aopmvcio   jvm           spring                  boot   spring                  cloud     mysql   sqlinnodb     redis               mq          zookeeper        eselk  
+
+
+ 
+ 
+ 
+
+
+    java                    java
+   spring                    mybatis         
+    mysql   
+
+
+ 
+ 
+ 
+ java
+ 
+
+
+    java                    jee   struts         
+ 
+ 
+ 
+ sql
+ 
+    jvm       java
+     linux              
+
+    java                    java   io      spring                    mybatis             mysql   sqlserveroracle    java   jvm           linux                  soa            
+
+
+ 
+ 
+ 
+ 
+ 
+
+ go
+ rest api
+ web
+ 
+ postgresql    mysql   
+     linux              
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+java
+
+
+
+ 
+
+
+
+
+
+
+
+
+   java                       spring                        struts                ssh            jsp             velocity       jquery                ajax            angularjs    jstloracle    db    mysql          hibernate                  mybatis                 redis               memcached                    socket                linux                 eclipse          my   eclipse              maven    svncvs    powerdesigner
+
+
+java   io   
+   java                    web
+jee
+sql    mysql   
+
+erpboss
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+java   jvm           gc    jit
+    redis                   memcached                       mongodb                 
+   spring                         netty                       mybatis             nio 
+    mysql       mysql   
+    linux                 shell         
+
+
+
+
+
+
+
+
+web   java                    web   spring                            spring                 mvc   mybiatis    dubbo                
+   bootstrap           jquery         
+api
+
+ 
+
+
+
+
+   
+
+    uml web   html         css javascript   ajax         java webmvc    ssh            rpc        xmljson     redis             memcache      mysql   oracle       mongodb                  web    tomcat               weblogic     linux              java    linux              java 
+
+
+ 
+ 
+ 
+
+ 
+    java                    java
+ aopmvc       spring                  mvc   mybatis            struts         velocity 
+ java ee   jsp            servlet        jdbc   struts         spingmvc   ajax        
+ 
+
+
+
+
+
+
+ 
+
+amp
+ java
+webwebtcpip
+    mysql       redis               mongodb                 keyvalue
+   shell         
+    dubbo                thrift   spring                  cloud
+    netty                   zookeeper        rabit   mq       rocket   mq          kafka              
+    soa            
+
+ 
+ 
+ 
+ 
+
+
+dnsdnsdns
+
+java   jvm          spring                    mybatis             mysql     dns
+
+
+ 
+                         
+ 
+ 
+
+ 
+    java                    java   io   
+     spring                    mybatis         mavengit
+     linux                  nginx                  mysql      mongodb                 
+     redis                dubbo                g   rpc           elasticsearch              solrrabbit   mq       
+ molpaypalpayssion
+ 
+ 
+
+        
+
+
+
+   java                    java ee   spring                     
+web
+
+boss
+base 
+
+
+java
+
+
+java
+
+
+
+
+
+
+
+
+
+ code reviewcode review
+
+java       spring                            spring                 mvc      mybatis             dubbo                java java
+    mysql        redis               kafka                 zookeeper            netty                rocket   mq            linux                   soa             
+
+
+
+
+
+
+
+
+ java  java 
+     soa                spring                    mybatis          
+     mysql     nosqlqueue 
+ http    jvm        nio   rpc         
+  web  api 
+
+
+
+
+
+
+java
+javaweb
+   spring                            spring                 mvc      mybatis         java
+nosql   mq       cache        redis            memcachedactive   mq          elasticsearch                 mongodb                 
+    dubbo                   spring                  cloud
+
+
+
+ 
+
+
+app
+
+
+
+
+    linux              io
+   java                       spring                    hibernate              ibatis                 mvcfreemarkervelocity
+
+
+
+java
+app
+
+
+
+
+
+   java                    java
+    mysql   oracle    sqlserver    mysql   sql
+   hadoop        hive   elasticsearch              
+
+   php        
+
+alphago
+    java                    cpython
+
+
+ 
+ 
+ 
+ 
+
+
+java  java  java 
+    spring                   orm     hibernate              mybatis         
+    mysql    nosql   mq       
+http    jvm        nio   rpc         
+
+
+
+
+
+
+lbs
+
+
+
+gislbs
+java   java                    java   io      spring                    hibernate              ibatis                 java   jvm       
+
+     mysql     nosqlqueue 
+ http    jvm        nio   rpc         
  web 
- mobile web 
-
- vue  react 
 
 
 
 
-   pc
-   node
-     
-   
-   
 
 
-   javascript   ajax   jquery   html    xhtml   css
-   html   csses
-   javascript    
-   vue   react  mvc   mvvm
-   node  expresskoa
-   webpack   gulp
-   
-         
-
-github
-
-java   php   linux
-
-        
- web                  
-
-     java web   java ee  struct    springmvc  spring  ibatis    hibernateweb  jquery     javascript,easyui,bootstarp,echartshtml   css   html    csswc        
 
 
-                pc
-   
-     wc       
-
-   javascript    html    css    vue  react  angular
-   webapp
-         
-         
-   php    node    hybridapp
-   rn weex
-
-        
-                    html  html    web        
-
- web  webxhtml    xml    css    javascript    html    css  javascript jquery   yui   mootools   ajax            web
- apps
 
 
-h apph
-               
-  
-
- html   css   es   webpack        mvc angular   react   vue webpack   grunt   gulp          react native github    react   angular   vue   node  
-
-               
-          html   css   javascript     http   react    vue    angular     grunt    gulp    webpack   node    ruby    python    php    golang    java            git    
+java
+java       spring                    spring                  mvc   mybatis            hibernate           webservice    dubbo                
+sql    mysql   oracle    sql   memcached                    redis               mongodb                 nosql
+    tomcat               
+    linux              
 
 
-       
-   
-   web
-   
-
-         vue
-   html   cssjavascript web
-    vue  vue     sass   es   webpack  
-   react    angular    vue
-   servernode    php    python    java
-     
-           
-            
-
-       
-     
-     
-     
-     
-         
-     
-       
-     
-     
-       
 
 
- webweb   
-   
+
+
+
+   java  java       soa                 spring                    mybatis                mysql     nosqlqueue   http    jvm        nio   rpc            web  api   
+
+
+
+
+
+
+   java  java       soa                 spring                    mybatis                mysql     nosqlqueue   http    jvm        nio   rpc            web  api   
+
+java
+  jee    struts                    spring                 mvc      hibernate              mybatis            html        css   java                    script   ajax            html        css   jquery                bootstrap            jsonxml    redis            memcache     tomcat               weblogicwebsphereweb oracle        mysql   sybasedbsql javaweb       unix    linux                  html            jquery          
+
+
+java   spingcloud        lucene   mq       java   jvm       jdk
  
 
- web   gulp   webpack 
-       
- react
-     
-     
- javascript    ,es,html    css
-   
- h
+
+
+
+
+java
+
+
+   talkingdata           abmilestone   talkingdata           tbgoogleyahoozyngaorchirly    talkingdata            data market data market  java     linux                  shell         python    mongodb                     redis            nosql      mysql   sql
+
+
+
+   spring                  cloud
 
  
- github
- node
+
+   java                    pythonnodejs
+    dubbo                   spring                  cloud
+   java                    java ee    soa               spring                    mybatis            spring                  boot   spring                  cloud    dubbo                
+    redis               kafka                 hadoop        spark   elasticsearch              
+dockermesos
 
 
 
-        html  css  
 
-    
-  
 
-     html   csshtml   css   less  
-   
-   javascript    es
-   vue  vuex  elementui    
-   webapck,fis,gulp
-
-   java    php    c    c    python    ruby
-   node
-     
-      
+   java                    jee           spring                 mvc      mybatis            java                    sqlserveroracle    
 
 
 
-  
-    
-
-   
-   html   css   javascriptes   es  jquery  
-   web    
-   gulp  grunt  webpack
-       
-  
-http        wwwfangmastercn    pcweb    
-http        wwwfangzongguancom    
-http        wwwfzglicaicom    
-
-
- saas  
  
-   
-     
+ java
+ java
 
-     
+
+
+
  
-   
- javascript   react    vue
-     
+api
 
 
-web
-
-web
-            
-  
-
-     
-
-    
-javascript   ajaxweb  
-html    xhtml   css    
-wc     web  
-web    
-      
-
-aflash   mobile web    wap   html    css  
-blinux  php   java   c    c  
-c  
-
-     
-  web
 
 
-html    xhtml   css  
-xml  ajax
-css  ie   chrome   firefox
-javascript jquery
-  php  asp    aspnet  javascript    p
-html   bootstrapflash
-        
 
-                        javascript   ajax   javascript    on   jave   phpweb                    svgsvg
-
-
-web
-  
-  
-
-    github
-html    css  web    http
-javascript      javascript      angular   vue   react  angularionic
-  
+    java                    java
+    mysql   nosql
+ jersey        spring                         hibernate                   mybatis         restful api
 git
 
-      
 
 
-cocosdxandriod    ios
 
-c         
+
+
+
+ app
+ 
+
+ 
+ githttp   java                       spring                     mysql   
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ java
+            spring                 mvc      mybatis             mysql   oracle    
+ http    https            socket                dubbo                    netty                hessian 
+     tomcat                   apache                  nginx              web
+ java
+ 
+     linux                 shell         
+
+
+
+
+
+
+
+
+
+ok
+
+
+wwwipaynowcnit
+
+
+
+
+
+
+
+
+
+
+
+   java                    nodejsnodejs
+   spring                        spring                 boot                spring                  cloud
+
+    linux              unix
+

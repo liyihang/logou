@@ -22,7 +22,7 @@ def replacePunctuations(line):
 
 # 词频统计分析
 def wordcount():
-    infile = open("3.txt", 'r')
+    infile = open("phpclear.txt", 'r')
     count = 50
     words = []
     data = []
