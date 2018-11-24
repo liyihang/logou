@@ -23,3 +23,10 @@
   datavisualization.py 是相关岗位技能的可视化展示
 
  <br>因为很多岗位默认北京，所以企业的分布不是很准确。还有一个pyechart的GEO生成地图默认带了经纬度，这个还没有处理
+ 
+ ## 公司分布展示
+ ![](https://github.com/liyihang/logou/blob/master/img/web.png)
+ 
+ ## 技能漏斗图
+ ![](https://github.com/liyihang/logou/blob/master/img/skill.png)
+ 以上都是以前端为基础，部分数据过滤不够完整。工具项目，如有任何问题，欢迎Issue。
