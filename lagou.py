@@ -59,7 +59,7 @@ def lagou(page, position):
         else:
             positionLables = ""
 
-        sql = "insert into lagoujava(positionName,workYear,salary,companyShortName\
+        sql = "insert into lagoupython(positionName,workYear,salary,companyShortName\
               ,companyIdInLagou,education,jobNature,positionIdInLagou,createTimeInLagou\
               ,city,industryField,positionAdvantage,companySize,score,positionLables\
               ,industryLables,publisherId,financeStage,companyLabelList,district,businessZones\
@@ -88,7 +88,7 @@ def lagou(page, position):
 
 @retry()
 def main(position):
-    page = 281
+    page = 1
     while page <= 100000:
         print('---------------------第', page, '页--------------------')
         try:
@@ -102,4 +102,4 @@ def main(position):
 
 # 输入你想要爬取的职位名,如:python
 if __name__ == '__main__':
-    main('JAVA')
+    main('python')
