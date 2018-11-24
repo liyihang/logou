@@ -30,4 +30,4 @@
  ## 技能漏斗图
  ![](https://github.com/liyihang/logou/blob/master/img/skill.png)
  以上都是以前端为基础，部分数据过滤不够完整。工具项目，如有任何问题，欢迎Issue。欢迎stars。
- ![](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%91%8A%E8%BE%9E&step_word=&hs=0&pn=11&spn=0&di=148057173550&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=2&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=2825476808%2C2396056435&os=114377831%2C2270668035&simid=0%2C0&adpicid=0&lpn=0&ln=1682&fr=&fmq=1543023990820_R&fm=result&ic=0&s=undefined&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fupfile.asqql.com%2F2009pasdfasdfic2009s305985-ts%2F2017-11%2F2017111513374859666.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bwfqqs_z%26e3Bv54AzdH3Fip4s_utsjAzdH3F9ccAzdH3Fdnb8ac_z%26e3Bip4s&gsm=0&rpstart=0&rpnum=0&islist=&querylist=)
+ ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1543034085340&di=343e72eabf32602329613ae3ca6c92dc&imgtype=0&src=http%3A%2F%2Fupfile.asqql.com%2F2009pasdfasdfic2009s305985-ts%2F2017-11%2F2017111513374859666.jpg)
